@@ -1,0 +1,101 @@
+﻿difficulty,question,answer
+easy,How many different portfolios are there?,5
+easy,What is the id of portfolioA?,1
+easy,What is the id of portfolioB?,2
+easy,What is the id of portfolioC?,3
+easy,What is the id of portfolioD?,4
+easy,What is the id of portfolioE?,5
+easy,how many unique tickers are there in the holdings?,8
+easy,what is the count of holdings in AAPL historically?,2
+easy,how many different portfolio owners are there?,5
+medium/hard,"what stock did portfolioB  have 200 shares of on Aug 1, 2024?",BAC
+medium/hard,on how many different days was AAPL held?,2
+medium/hard,"How many stocks did portfolioA hold on August 1, 2024?",2
+medium/hard,"How many shares of BAC did portfolioB hold on August 1, 2024?",200
+medium/hard,"what is the portfolio name of the portfolio that held TSLA on August 1, 2024?",portfolioC
+medium/hard,"How many shares of MSFT did Xiao hold on Jan 1, 2024?",123
+medium/hard,"How many shares of XOM did Chun have on Jan 1, 2024?",222
+easy,"What was the price of AAPL on Jan 2, 2024",185.152
+easy,"what was the price of GOOG on Jan 31, 2024?",141.639
+easy,"what was the price of MSFT on May 3, 2024",405.928
+easy,what was the price of MSFT on April 3rd,419
+easy,what was the stock price of microsoft on April 3rd,419
+easy,"what was the price of Apple stock on jan 2, 2024",185
+easy,"what was the price of google on jan 31, 2024",141
+medium/hard,"was the stock price of AAPL higher or lower the day after jan 31, 2024?",higher
+easy,How many portfolio owners are named Chun Li in this firm?,1
+medium/hard,How many people are named Chun Li in this firm?,1
+easy,How many owner's names start with the letter C?,1
+easy,How many owner's names start with the letter J?,3
+easy,who is the owner of portfolioC?,Jen Stevens
+easy,who is the manager of portfolioC?,Jen Stevens
+easy,who is the owner of portfolioB?,Jack Brody
+easy,who is the manager of portfolioB?,Jack Brody
+easy,who owns portfolio C?,Jen Stevens
+easy,who manages portfolio C?,Jen Stevens
+easy,does anyone with the partial name 'Doe' own a portfolio?,John Doe
+easy,what is the age of portfolioC?,38
+easy,what is the age of Jen Stevens?,38
+easy,how old is portfolioB?,43
+easy,how old is Chun Li?,59
+easy,what is the sum of ages of all portfolios?,210
+easy,what is the minimum portfolio age?,25
+easy,what is the maximum portfolio age?,59
+medium/hard,what is the second highest portfolio age?,45
+medium/hard,what is the second lowest portfolio age?,38
+easy,what is the average portfolio age?,42
+easy,Does anyone with the partial name 'Chun' run a portfolio?,Chun Li
+easy,Does anyone with the partial name Steve run a portfolio?,Jen Stevens
+easy,What is the price of AAPL on Jan 30 2024,187
+easy,What was AAPL's price on the last day of April in 2024,170
+easy,What was AAPL's price on the first day of May 2024,169
+easy,"What was GOOG's price on May 1, 2024",165
+easy,"What was MSFT's price on Jan 29, 2024 minus its price on Jan 26, 2024?",5
+easy,What was MSFT's price on Feb 1 2024,402
+easy,How many prices for MSFT are in the prices table?,148
+easy,How many prices for AAPL are in the database?,148
+easy,What is the total count of prices in the prices table?,445
+easy,How many unique days are there in the prices table?,148
+easy,What is the price of MSFT on the most recent day?,408
+easy,What is the most recent date in the prices table?,8/2/2024
+easy,How many unique tickers are there in the prices table?,3
+easy,How many duplicate tickers are there in the holdings table?,2
+medium/hard,"What is the market value of portfolioA's AAPL holding on Aug 1, 2024",21836
+medium/hard,"What is the market value of portfolioA's AAPL holding on Aug 2, 2024",43972
+medium/hard,"Which portfolio held the most positions on Aug 2, 2024",portfolioA
+medium/hard,"What is the sum of shares held by portfolioB on Aug 1, 2024",0
+medium/hard,"What is the count of positions held by portfolioB on Aug 1, 2024",2
+medium/hard,"Which holding was largest for portfolioB on Aug 1, 2024",BAC
+medium/hard,"Which holding was smallest for portfolioB on Aug 1, 2024",JPM
+medium/hard,What is the sum of the negative positions across all holdings?,-800
+medium/hard,What is the sum of all the positive positions for portfolio A as of the latest holdings date?,500
+medium/hard,What is the sum of prices for all stocks on the first day in the prices table?,694
+medium/hard,What is the sum of AAPL and GOOG on the first day in the prices table?,324
+medium/hard,"Which stock had the highest price on Jan 2, 2024?",MSFT
+medium/hard,Which stock had the lowest price on the first day in the database?,GOOG
+medium/hard,What is the max stock price of all stocks for January 2024,408
+medium/hard,What is the minimum stock price for January 2024?,137
+medium/hard,What is the max stock price of all stocks for February 2024,419
+medium/hard,What is the min stock price of all stocks for February 2024,137
+medium/hard,What is the max stock price of all stocks for March 2024,428
+medium/hard,What is the min stock price of all stocks for March 2024,132
+medium/hard,What is the max stock price of all stocks for April 2024,427
+medium/hard,What is the min stock price of all stocks for April 2024,151
+medium/hard,What is the max stock price of all stocks for May 2024,430
+medium/hard,What is the min stock price of all stocks for May 2024,165
+medium/hard,What is the max stock price of all stocks for June 2024,452
+medium/hard,What is the min stock price of all stocks for June 2024,174
+medium/hard,What is the max stock price of all stocks for July 2024,467
+medium/hard,What is the min stock price of all stocks for July 2024,168
+medium/hard,What is the max stock price of all stocks for Aug 2024,417
+medium/hard,What is the min stock price of all stocks for Aug 2024,168
+medium/hard,What is the average stock price for Jan 2024,240
+medium/hard,What is the average stock price for Jan 2024,245
+medium/hard,What is the average stock price for Jan 2024,243
+medium/hard,What is the average stock price for Jan 2024,246
+medium/hard,What is the average stock price for Jan 2024,258
+medium/hard,What is the average stock price for Jan 2024,274
+medium/hard,What is the average stock price for Jan 2024,284
+medium/hard,What is the average stock price for Jan 2024,267
+medium/hard,What is the max stock price for the whole year,132
+medium/hard,What is the min stock price for the whole year,467
